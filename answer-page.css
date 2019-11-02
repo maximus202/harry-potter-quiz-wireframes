@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  section, footer {
+    width: 50%;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  
+  h1, h2 {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  img, button {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
